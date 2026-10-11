@@ -1,0 +1,9 @@
+streamlit
+langchain
+langchain-groq
+groq
+pydantic
+nltk
+pypdf
+scikit-learn
+rank_bm25
